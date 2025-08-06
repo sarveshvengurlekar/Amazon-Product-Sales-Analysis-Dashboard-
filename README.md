@@ -18,16 +18,15 @@ This Power BI dashboard provides comprehensive analysis of Amazon product sales 
 ![Main Dashboard](Media/Dashboard.png)
 *Main dashboard showing overall sales metrics and KPIs*
 
-
 ### Category Analysis View 
-![Category Analysis](Media/Filterby category dashboard.png)
+![Category Analysis](Media/Filter_by_category_dashboard.png)
 *Detailed product performance and category analysis*
 
-![Category Analysis](Media/Filter_by_category_dashboard.png)
+### Quantitative Sales View
+![Category Analysis](Media/Filter_by_qty_dashboard.png)
 
-### Regional Sales View
-![Regional Sales](Media/Filter by qty dashboard.png)
-*Geographic distribution of sales and regional performance*
+## Top Selling Products View
+![Category Analysis](Media/Top_5_Filter_Dashboard.png)
 
 ## Tools Used
 - Power BI Desktop
