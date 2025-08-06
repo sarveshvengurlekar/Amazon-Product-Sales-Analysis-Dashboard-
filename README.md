@@ -20,7 +20,7 @@ This Power BI dashboard provides comprehensive analysis of Amazon product sales 
 
 
 ### Product Analysis View
-![Product Analysis](./media/product_analysis.png)
+![Product Analysis](Media/Filter by category dashboard.png)
 *Detailed product performance and category analysis*
 
 ### Regional Sales View
