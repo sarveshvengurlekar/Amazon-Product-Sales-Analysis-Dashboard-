@@ -1,11 +1,11 @@
 
 # Amazon Product Sales Analysis Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20Driven-blue?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ## Overview
 This Power BI dashboard provides comprehensive analysis of Amazon product sales data, offering insights into sales trends, product performance, and customer behavior.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20Driven-blue?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 
 ## Features
