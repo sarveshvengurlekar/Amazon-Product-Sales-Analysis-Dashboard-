@@ -1,4 +1,3 @@
-# Amazon-Product-Sales-Analysis-
 
 # Amazon Product Sales Analysis Dashboard
 
