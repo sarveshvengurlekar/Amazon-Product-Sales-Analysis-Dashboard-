@@ -69,6 +69,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 Created by [Sarvesh Vengurlekar](https://github.com/sarveshvengurlekar)
 
-## Acknowledgments
-- Thanks to Power BI community for visualization inspiration
-- Gratitude to all contributors and data providers
